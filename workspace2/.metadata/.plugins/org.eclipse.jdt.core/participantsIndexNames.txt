@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+K:\java\workspace2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1710400691.index
+\minorproject7thsem-3\src
+K:\java\workspace2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2720332641.index
+\minorProjectWithInder7thSem3\src
